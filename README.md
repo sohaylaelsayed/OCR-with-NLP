@@ -13,7 +13,11 @@ REQUIRMENTS:
 4. Set the tesseract path in the script before calling image_to_string:
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
+
 5.pip install tesseract
+
 6.pip install tesseract-ocr
+
 7.nltk.download('punkt')
+
 8. nltk.download('averaged_perceptron_tagger')
