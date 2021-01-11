@@ -1,0 +1,23 @@
+ FIRST APPROACH :FOR Receipt Digitization with OCR
+ 
+Receipt Digitization using Tesseract
+
+1.Preprocessing
+
+2.Text Detection
+
+3.Text Recognition
+
+4.Information Extraction
+
+extract information which restaurant_name,email,total,Date as json format
+
+SECOND APPROACH:
+
+1.use nlp packages and regular expression to extract the string from text 
+
+2.use spacy to can determine the ner for each string to determinre the resturant name from text 
+
+3.compare restsrantname which extracted from text with restaruantname which extracted from recipect 
+
+4.eliminate the extra text 
