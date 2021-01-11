@@ -21,3 +21,8 @@ SECOND APPROACH:
 3.compare restsrantname which extracted from text with restaruantname which extracted from recipect 
 
 4.eliminate the extra text 
+
+
+HINT:
+make iteration for file by using listdic function 
+you can change the path for your folder 
